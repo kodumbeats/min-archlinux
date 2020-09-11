@@ -2,7 +2,7 @@
 
 pkgname=min
 pkgver=1.16.0
-_commit=34ded9ddea67cf5f7921e2ff4b8d7b0a4b9a76fb
+_commit=0096da38545f9828a256ca6872eb91246132a5c3
 pkgrel=1
 pkgdesc='A smarter, faster web browser'
 arch=('any')
