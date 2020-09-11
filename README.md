@@ -8,8 +8,10 @@ sudo pacman -U min-*.pkg.tar.xz
 ```
 ## Uninstallation
 **Always investigate shell scripts before use!**
-`chmod +x ./uninstall.sh`
-`./uninstall.sh`
+```
+chmod +x ./uninstall.sh
+./uninstall.sh
+```
 
 ## Known issues
 [ ] Output warns of missing files - this does not affect the success of the installation.
