@@ -1,4 +1,5 @@
 # Maintainer: kodumbeats <brandon.leckemby@gmail.com>
+# Contributor: Nicola Squartini <tensor5@gmail.com>
 
 pkgname=min
 pkgver=1.16.0
