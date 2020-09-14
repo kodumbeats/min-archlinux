@@ -1,4 +1,5 @@
 # Min Browser for Arch Linux
+**current release:** 1.16.0
 
 ## Installation
 ```
