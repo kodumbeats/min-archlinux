@@ -3,11 +3,12 @@
 ## Installation
 ```
 git clone git@github.com/kodumbeats/min-archlinux
+cd min-archlinux
 makepkg
 sudo pacman -U min-*.pkg.tar.xz
 ```
 ## Uninstallation
-**Always investigate shell scripts before use!**
+[friends don't let friends curl bash](https://sysdig.com/blog/friends-dont-let-friends-curl-bash/)
 ```
 chmod +x ./uninstall.sh
 ./uninstall.sh
